@@ -46,16 +46,15 @@
 
 | Name | Description | Status |
 | --- | --- | --- |
-| https://www.notion.so/Python-Crash-Course-197b8b3423334df8bb910d88e83b8f81 | Gain a foundational understanding of python programming | in-progress |
-| https://www.notion.so/Python-for-Data-Analysis-ca2a0e082c56421bbd3371e5330c24cd | Learn how to solve real world problem using data analysis | unfinished |
-| https://www.notion.so/Mathematics-for-Machine-Learning-5f8ee10ebec8430f9f45dacb65ce72e6 | Foundational book for mathematical concepts for Machine Learning Concepts. | unfinished |
-| https://www.notion.so/Pattern-Recognition-and-Machine-Learning-5458276c13224e22aca7b74b6495ae52 | Get familiar with math-related concepts used in machine learning. A very solid book in my view and it’s heavily referenced in academia.  | unfinished |
-| https://www.notion.so/Statistics-and-Machine-Learning-with-Python-062253a48ed64b07adeb3fa632de58b5 | Gives an introduction to Python, the maths, and machine learning and deep learning models using. | unfinished |
-| https://www.notion.so/Machine-Learning-Refined-2nd-Edition-4fe4b82641dc4e1286cc6023db790a79 | Providing a unique approach to machine learning, this text contains fresh and intuitive, yet rigorous, descriptions of all fundamental concepts necessary to conduct research, build products, tinker, and play | unfinished |
-| https://www.notion.so/Hands-on-Machine-Learning-with-Scikit-Learn-and-Tensorflow-756932a2a3f743ed9f1a7b8ded48c0a7 | This book assumes that you know close to nothing about Machine Learning. Its goal is to give you the
-concepts, the intuitions, and the tools you need to actually implement programs capable of learning from data. We will cover a large number of techniques, from the simplest and most commonly used (such as linear regression) to some of the Deep Learning techniques that regularly win competitions. | unfinished |
-| https://www.notion.so/Approaching-Almost-Any-Machine-Learning-Problem-74414860c2e74dfcbc030a98641439e0 | A non-traditional book used for solving machine learning Problems. Does not go into the mathematics behind the ML models. | unfinished |
-| https://www.notion.so/Deep-Learning-by-Francis-Chollet-31e360cfd00341d7bc156797bf22e21f | Explore deep learning from scratch. Avoids mathematical notation instead tries to build an intuition for how to solve problems using hands-on problems | unfinished |
+| Python-Crash-Course | Gain a foundational understanding of python programming | in-progress |
+| Python-for-Data-Analysis| Learn how to solve real world problem using data analysis | unfinished |
+| Mathematics-for-Machine-Learning| Foundational book for mathematical concepts for Machine Learning Concepts. | unfinished |
+| Pattern-Recognition-and-Machine-Learning| Get familiar with math-related concepts used in machine learning. A very solid book in my view and it’s heavily referenced in academia.  | unfinished |
+|Statistics-and-Machine-Learning-with-Python| Gives an introduction to Python, the maths, and machine learning and deep learning models using. | unfinished |
+|Machine-Learning-Refined-2nd-Edition| Providing a unique approach to machine learning, this text contains fresh and intuitive, yet rigorous, descriptions of all fundamental concepts necessary to conduct research, build products, tinker, and play | unfinished |
+|Hands-on-Machine-Learning-with-Scikit-Learn-and-Tensorflow| Gives you the concepts, the intuitions, and the tools you need to actually implement programs capable of learning from data. We will cover a large number of techniques, from the simplest and most commonly used (such as linear regression) to some of the Deep Learning techniques that regularly win competitions. | unfinished |
+|Approaching-Almost-Any-Machine-Learning-Problem | A non-traditional book used for solving machine learning Problems. Does not go into the mathematics behind the ML models. | unfinished |
+|Deep-Learning-by-Francis-Chollet | Explore deep learning from scratch. Avoids mathematical notation instead tries to build an intuition for how to solve problems using hands-on problems | unfinished |
 
 **Books:** [https://drive.google.com/drive/folders/1DqUgWphe4OWyvzRgqtrtEpb2-6t2pZta?usp=share_link](https://drive.google.com/drive/folders/1DqUgWphe4OWyvzRgqtrtEpb2-6t2pZta?usp=share_link)
 
