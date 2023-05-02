@@ -46,8 +46,8 @@
 
 | Name | Description | Status |
 | --- | --- | --- |
-| Python-Crash-Course | Gain a foundational understanding of python programming | in-progress |
-| Python-for-Data-Analysis| Learn how to solve real world problem using data analysis | unfinished |
+| Python-Crash-Course | Gain a foundational understanding of python programming | done |
+| Python-for-Data-Analysis| Learn how to solve real world problem using data analysis | in-progress |
 | Mathematics-for-Machine-Learning| Foundational book for mathematical concepts for Machine Learning Concepts. | unfinished |
 | Pattern-Recognition-and-Machine-Learning| Get familiar with math-related concepts used in machine learning. A very solid book in my view and it’s heavily referenced in academia.  | unfinished |
 |Statistics-and-Machine-Learning-with-Python| Gives an introduction to Python, the maths, and machine learning and deep learning models using. | unfinished |
