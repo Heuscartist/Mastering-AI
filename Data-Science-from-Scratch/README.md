@@ -19,7 +19,7 @@ The aim is to:
 
 | Project No. | Title | Chapter Concept | Description | Dataset |
 |-------------|-------|-----------------|-------------|---------|
-| 01 | [World Happiness Data Visualization](01_Data_Visualization) | Data Visualization (Ch. 3) | Visualizing the 2019 World Happiness dataset using Matplotlib (bar charts, histograms, scatter plots, boxplots, heatmaps) | [Link](https://raw.githubusercontent.com/owid/happiness-data/main/2019.csv) |
+| 01 | [World Happiness Data Visualization](Data-Visualization) | Data Visualization (Ch. 3) | Visualizing the 2019 World Happiness dataset using Matplotlib (bar charts, histograms, scatter plots, boxplots, heatmaps) | [Link](https://www.kaggle.com/datasets/unsdsn/world-happiness) |
 
 ---
 
